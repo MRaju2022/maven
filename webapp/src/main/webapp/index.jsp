@@ -1,7 +1,6 @@
 <html>
 <body>
 <h1>Welcome To Srini IT</h1>
-<h2>Login for DevOps classes:</h2>
 </body>
 <body style="color:red;">
 
